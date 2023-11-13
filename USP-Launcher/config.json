@@ -1,0 +1,18 @@
+{
+    "useOverlay": false,
+    "discord":"1",
+    "forum":"https://usp-rp.life",
+    "space":"https://space.usp-rp.life",
+    "ts":"https://cllk.ru/C57N318s",
+    "servers":[
+        {
+            "svname": "Union States Project",
+            "ip":"gkapbo"
+        },
+        {
+            "svname": "Union States Project Event",
+            "ip":"pkpov5"
+        }
+    ]
+
+}
